@@ -1,22 +1,24 @@
 template:
   bslib:
-    primary: "#447099"
+    primary: "#565A5C"
     base_font: {google: {family: "Source Sans Pro", wght: [400, 600], ital: [0, 1]}}
     code_font: {google: "Source Code Pro"}
     font_scale: 1.2
-    fg: "#172431"
+    fg: "#A2A4A3"
     bg: "#fcfcfc"
     border-radius: 0
     btn-border-radius: 3px
     grid-gutter-width: 3rem
     pkgdown-nav-height: 78px
-
+  bootstrap: 5
+  params:
+    bootswatch: cosmo
+    
 code:
   width: 74
 
 navbar:
-  type: light
-  bg: none
+  type: dark
 
 authors:
   RNA Bioscience Initiative:
