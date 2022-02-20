@@ -3,3 +3,9 @@
 ^_pkgdown\.yml$
 ^docs$
 ^pkgdown$
+^README\.Rmd$
+^docs$
+^.*\.Rproj$
+^\.Rproj\.user$
+^scss$
+^\.sass-cache$
