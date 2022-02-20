@@ -7,7 +7,3 @@ template:
       <script defer data-domain="rnabioco.github.io" src="https://plausible.io/js/plausible.js"></script>
 
 url: https://rnabioco.github.io/rbitemplate
-
-authors:
-  Jay Hesselberth:
-    href: https://hesselberthlab.org
