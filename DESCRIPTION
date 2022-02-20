@@ -1,9 +1,11 @@
 Package: rbitemplate
 Title: pkgdown template for rnabioco R packages
 Version: 0.0.0.9000
-Authors@R: 
+Authors@R: c(
     person("Jay", "Hesselberth", , "jay.hesselberth@cuanschutz.edu", role = c("aut", "cre"),
-           comment = c(ORCID = "0000-0002-6299-179X"))
+           comment = c(ORCID = "0000-0002-6299-179X")),
+    person("RNA Bioscience Initiative", role = "fnd")       
+  )
 Description: This is a pkgdown template for RBI R packages using
     consistent theming.
 License: MIT + file LICENSE
