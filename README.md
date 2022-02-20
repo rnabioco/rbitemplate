@@ -13,5 +13,5 @@ This is a pkgdown template for websites across the RBI.
 For sites, ensure `DESCRIPTION` contains:
 
 ``` r
-Config/Needs/website: tidyverse/tidytemplate
+Config/Needs/website: rnabioco/rbitemplate
 ```
