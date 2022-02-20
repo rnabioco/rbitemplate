@@ -1,0 +1,26 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.align = 'center',
+  fig.path = "man/figures/README-"
+)
+```
+
+# rbi-pkgdown-template
+
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/rnabioco/rbi-pkgdown-template/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/rnabioco/rbi-pkgdown-template/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
+
+For sites, ensure `DESCRIPTION` contains:
+
+```r
+Config/Needs/website: tidyverse/tidytemplate
+```
