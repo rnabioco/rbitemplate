@@ -20,7 +20,7 @@ template:
 footer:
   structure:
     left: devel
-    right: pkgdown
+    right: built_with
   components:
     devel: An R package developed by the <a href='https://medschool.cuanschutz.edu/rbi'>RNA Bioscience Initiative</a>
     
