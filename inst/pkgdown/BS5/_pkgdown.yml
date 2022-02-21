@@ -1,4 +1,6 @@
 template:
+  bootstrap: 5
+  bootswatch: cosmo
   bslib:
     primary: "#565A5C"
     base_font: {google: {family: "Source Sans Pro", wght: [400, 600], ital: [0, 1]}}
@@ -10,20 +12,23 @@ template:
     btn-border-radius: 3px
     grid-gutter-width: 3rem
     pkgdown-nav-height: 78px
-  bootstrap: 5
-  params:
-    bootswatch: cosmo
-    footer: An R package developed by the <a href='https://medschool.cuanschutz.edu/rbi'>RNA Bioscience Initiative</a>
     
-includes:
-  in_header: |
-    <script defer data-domain="rnabioco.github.io" src="https://plausible.io/js/plausible.js"></script>
+  includes:
+    in_header: |
+      <script defer data-domain="rnabioco.github.io" src="https://plausible.io/js/plausible.js"></script>
+      
+footer:
+  structure:
+    left: devel
+    right: pkgdown
+  components:
+    devel: An R package developed by the <a href='https://medschool.cuanschutz.edu/rbi'>RNA Bioscience Initiative</a>
     
 code:
   width: 74
 
 navbar:
-  type: dark
+  bg: dark 
 
 authors:
   RNA Bioscience Initiative:
