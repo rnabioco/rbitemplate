@@ -1,4 +1,5 @@
 template:
   package: rbitemplate
+  bootstrap: 5
 
 url: https://rnabioco.github.io/rbitemplate
