@@ -1,9 +1,4 @@
 template:
   package: rbitemplate
-  bootstrap: 5
-
-  includes:
-    in_header: |
-      <script defer data-domain="rnabioco.github.io" src="https://plausible.io/js/plausible.js"></script>
 
 url: https://rnabioco.github.io/rbitemplate

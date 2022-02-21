@@ -4,8 +4,8 @@ template:
     base_font: {google: {family: "Source Sans Pro", wght: [400, 600], ital: [0, 1]}}
     code_font: {google: "Source Code Pro"}
     font_scale: 1.2
-    fg: "#A2A4A3"
-    bg: "#fcfcfc"
+    fg: "black"
+    bg: "white"
     border-radius: 0
     btn-border-radius: 3px
     grid-gutter-width: 3rem
@@ -13,6 +13,11 @@ template:
   bootstrap: 5
   params:
     bootswatch: cosmo
+    footer: An R package developed by the <a href='https://medschool.cuanschutz.edu/rbi'>RNA Bioscience Initiative</a>
+    
+includes:
+  in_header: |
+    <script defer data-domain="rnabioco.github.io" src="https://plausible.io/js/plausible.js"></script>
     
 code:
   width: 74
