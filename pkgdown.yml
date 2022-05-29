@@ -1,9 +1,9 @@
 pandoc: 2.14.2
-pkgdown: 2.0.2
+pkgdown: 2.0.3
 pkgdown_sha: ~
 articles:
   test: test.html
-last_built: 2022-02-21T01:21Z
+last_built: 2022-05-29T20:37Z
 urls:
   reference: https://rnabioco.github.io/rbitemplate/reference
   article: https://rnabioco.github.io/rbitemplate/articles
