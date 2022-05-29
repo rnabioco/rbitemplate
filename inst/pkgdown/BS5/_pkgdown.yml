@@ -33,7 +33,7 @@ navbar:
 authors:
   RNA Bioscience Initiative:
     href: https://medschool.cuanschutz.edu/rbi
-    html: <img src='https://rnabioco.github.io/rbitemplate/rbi-logo.png' alt='RBI' width='72' />
+    html: <img src='https://rnabioco.github.io/rbitemplate/rbi-pkgdown-logo.svg' alt='RBI' width='72' />
   Jay Hesselberth:
     href: https://hesselberthlab.org
   Kent Riemondy:
