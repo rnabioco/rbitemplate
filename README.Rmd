@@ -24,5 +24,15 @@ This is a pkgdown template for websites across the RBI.
 For sites, ensure `DESCRIPTION` contains:
 
 ```r
-Config/Needs/website: rnabioco/rbitemplate
+Config/Needs/website:
+    pkgdown,
+    rnabioco/rbitemplate
+```
+
+and add this to package `_pkgdown.yml`:
+
+```yaml
+template:
+  package: rbitemplate
+  bootstrap: 5
 ```
