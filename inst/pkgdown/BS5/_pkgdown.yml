@@ -1,7 +1,6 @@
 template:
   bootstrap: 5
-  bslib:
-    light-switch: true
+  light-switch: true
     
   includes:
     in_header: |
