@@ -1,5 +1,6 @@
 template:
   package: rbitemplate
   bootstrap: 5
+  light-switch: true
 
 url: https://rnabioco.github.io/rbitemplate
