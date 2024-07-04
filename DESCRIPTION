@@ -18,10 +18,8 @@ Suggests:
 VignetteBuilder: 
     knitr
 Config/Needs/website:
-    pkgdown,
+    r-lib/pkgdown,
     rnabioco/rbitemplate
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
-Remotes:
-  r-lib/pkgdown
