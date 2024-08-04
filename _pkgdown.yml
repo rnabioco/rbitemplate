@@ -2,5 +2,10 @@ template:
   package: rbitemplate
   bootstrap: 5
   light-switch: true
+  bslib: 
+    primary: "#565A5C"
+    code_font: {google: "Fira Code"}
+    base_font: {google: "Atkinson Hyperlegible"}
+    link-decoration: underline dotted
 
 url: https://rnabioco.github.io/rbitemplate
