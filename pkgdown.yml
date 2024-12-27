@@ -1,9 +1,9 @@
 pandoc: 3.1.11
-pkgdown: 2.1.0.9000
-pkgdown_sha: 502c3e2ce0df6c7236d87098637073eaba61c5f4
+pkgdown: 2.1.1.9000
+pkgdown_sha: 5c03b7444923f7c797b8b283e175f8eed63797a7
 articles:
   test: test.html
-last_built: 2024-08-04T20:02Z
+last_built: 2024-12-27T13:03Z
 urls:
   reference: https://rnabioco.github.io/rbitemplate/reference
   article: https://rnabioco.github.io/rbitemplate/articles
