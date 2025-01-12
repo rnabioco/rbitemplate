@@ -16,7 +16,7 @@ footer:
     left: devel
     right: built_with
   components:
-    devel: An R package developed by the <a href='https://medschool.cuanschutz.edu/rbi'>RNA Bioscience Initiative</a>
+    devel: An R package developed by the <a href='https://github.com/rnabioco'>RNA Bioscience Initiative</a>
     
 authors:
   RNA Bioscience Initiative:
